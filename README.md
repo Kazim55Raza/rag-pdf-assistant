@@ -46,7 +46,7 @@ A full-stack Retrieval-Augmented Generation (RAG) platform that enables users to
 
 ### 1. Backend Setup
 
-```bash
+
 # Navigate to backend directory
 cd backend
 
@@ -69,6 +69,7 @@ EOT
 
 # Start the FastAPI server
 uvicorn app.main:app --reload
+---
 
 ### 2. Frontend Setup
 
