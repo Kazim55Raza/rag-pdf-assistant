@@ -46,7 +46,7 @@ A full-stack Retrieval-Augmented Generation (RAG) platform that enables users to
 
 ### 1. Backend Setup
 
-
+```bash
 # Navigate to backend directory
 cd backend
 
